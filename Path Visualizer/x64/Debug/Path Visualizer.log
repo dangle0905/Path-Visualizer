@@ -1,0 +1,3 @@
+﻿  Dijkstra.cpp
+C:\Users\dangl\source\repos\Path Visualizer\Path Visualizer\Dijkstra.cpp(119,16): warning C4102: 'std': unreferenced label
+  Path Visualizer.vcxproj -> C:\Users\dangl\source\repos\Path Visualizer\x64\Debug\Path Visualizer.exe
