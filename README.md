@@ -9,7 +9,7 @@ After the insertion you can start the search and have an option of choosing a Br
 ## Purpose
 This purpose of this program was to demostrate my knowledge of the algorithms used and OOP with C++. <br>
 Data Structures used in this program are: stack, queue, priority queue, and vectors. <br>
-Libraries used: SFML. <br>
+Libraries used: [SFML](https://www.sfml-dev.org/) <br>
 
 ## How to run the program on windows.
 The executable file is located in the Debug Folder. Open it and you will be able to run the program.
