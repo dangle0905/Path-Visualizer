@@ -3,7 +3,7 @@ An application that displays BFS, DFS, and Dijkstra Algorithm. <br>
 You can add the initial start of the search, the target, and walls.<br>
 After the insertion you can start the search and have an option of choosing a Breadth first search, Depth First Search, or Dijkstra to find the shortest path to the target. <br>
 
-Here is an example of the application running. <br>
+## Here is an example of the application running: <br>
 ![](https://github.com/dangle0905/devportfolio/blob/master/images/bfs-visualizer.gif)
 
 ## Purpose
