@@ -6,6 +6,14 @@ After the insertion you can start the search and have an option of choosing a Br
 ## Here is an example of the application running: <br>
 ![](https://github.com/dangle0905/devportfolio/blob/master/images/bfs-visualizer.gif)
 
+## To Update Repo From Different Computer
+git clone https://github.com/username/repo.git
+Update what you need to update
+git add .
+git commit -m "Added new feature"
+git push origin master
+Done!
+
 ## Purpose
 This purpose of this program was to demostrate my knowledge of the algorithms used and OOP with C++. <br>
 Data Structures used in this program are: stack, queue, priority queue, and vectors. <br>
